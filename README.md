@@ -9,10 +9,12 @@ The programs in this repository cover a range of fundamental topics, including i
 
 Some of the programs you'll find in this repository include:
 
-A program that calculates the area of a rectangle, given its length and width
-A program that takes user input and prints out whether a number is even or odd
-A program that prints out the Fibonacci sequence up to a given number
-A program that sorts an array of numbers in ascending order
+//A program that calculates the area of a rectangle, given its length and width
+//A program that takes user input and prints out whether a number is even or odd
+//A program that prints out the Fibonacci sequence up to a given number
+//A program that sorts an array of numbers in ascending order
 These programs are just a small sample of what you'll find in the repository. They're intended to give you a taste of what C programming is like and help you build your confidence as you learn.
 
 Whether you're a complete beginner or just looking to brush up on your C programming skills, this repository is a great resource to have. You can fork it, modify the programs, and use them as a starting point for your own projects. You can also learn from the code and use it as a reference as you continue your C programming journey.
+
+
